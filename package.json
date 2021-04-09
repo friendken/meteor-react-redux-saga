@@ -20,7 +20,7 @@
     "redux-devtools-extension": "^2.13.2",
     "redux-logger": "^3.0.6",
     "redux-saga": "^0.16.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.13.0"
   },
   "version": "1.0.0",
   "description": "Structure for meteor react, redux and redux saga",
